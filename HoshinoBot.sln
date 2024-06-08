@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HoshinoBot", "HoshinoBot\HoshinoBot.csproj", "{39B05B04-3DF3-42BE-8B62-88C8A91E325D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39B05B04-3DF3-42BE-8B62-88C8A91E325D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39B05B04-3DF3-42BE-8B62-88C8A91E325D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39B05B04-3DF3-42BE-8B62-88C8A91E325D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39B05B04-3DF3-42BE-8B62-88C8A91E325D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
